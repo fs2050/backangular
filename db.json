@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Mouse Optico  ",
+      "price": "27.99",
+      "quantity": "500",
+      "id": 2
+    },
+    {
+      "name": "Mouse",
+      "price": "27.99",
+      "quantity": "12",
+      "id": 3
+    },
+    {
+      "name": "Teclado",
+      "price": "100.00",
+      "quantity": "50",
+      "id": 4
+    }
+  ]
+}
